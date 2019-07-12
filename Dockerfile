@@ -1,4 +1,4 @@
-FROM ubuntu:12.1.1
+FROM ubuntu:12.188
 
 RUN apt-get update
 
