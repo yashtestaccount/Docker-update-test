@@ -1,4 +1,4 @@
-FROM ubuntu:11.2.3
+FROM ubuntu:12.1.1
 
 RUN apt-get update
 
